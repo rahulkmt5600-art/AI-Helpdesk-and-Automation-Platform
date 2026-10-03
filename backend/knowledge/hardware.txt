@@ -1,0 +1,32 @@
+HARDWARE TROUBLESHOOTING GUIDE
+
+Monitor not working:
+1. Check that the monitor power cable is connected.
+2. Make sure the monitor is powered on.
+3. Check the HDMI, DisplayPort, or VGA cable.
+4. Try another display cable if available.
+5. Check whether the computer detects the monitor.
+6. If the monitor still does not work, escalate to the Hardware Team.
+
+Keyboard not working:
+1. Check the USB or wireless connection.
+2. Reconnect the keyboard.
+3. Try another USB port.
+4. For wireless keyboards, check the batteries.
+5. Test another keyboard if available.
+6. Escalate persistent hardware failures to the Hardware Team.
+
+Mouse not working:
+1. Reconnect the mouse.
+2. Try another USB port.
+3. Check the wireless receiver or batteries.
+4. Restart the computer.
+5. Test another mouse if available.
+6. Escalate persistent failures to the Hardware Team.
+
+Laptop overheating:
+1. Make sure the air vents are not blocked.
+2. Keep the laptop on a hard, flat surface.
+3. Close unnecessary applications.
+4. Check whether the cooling fan is working.
+5. Escalate persistent overheating to the Hardware Team.

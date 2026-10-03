@@ -1,0 +1,29 @@
+NETWORK TROUBLESHOOTING GUIDE
+
+Wi-Fi not working:
+1. Check whether Wi-Fi is enabled on the computer.
+2. Disconnect and reconnect to the company Wi-Fi network.
+3. Restart the Wi-Fi adapter.
+4. Restart the computer if the problem continues.
+5. Check whether other users are experiencing the same problem.
+6. If multiple users are affected, report the issue to the Network Team.
+
+Internet connection is slow:
+1. Check the Wi-Fi signal strength.
+2. Disconnect unused VPN connections.
+3. Restart the network adapter.
+4. Test another website or internal application.
+5. If the problem affects multiple users, escalate to the Network Team.
+
+VPN not connecting:
+1. Verify that the internet connection is working.
+2. Confirm that the correct VPN credentials are being used.
+3. Restart the VPN application.
+4. Disconnect other VPN or proxy connections.
+5. If VPN authentication continues to fail, escalate to the Network Team.
+
+DNS or website access problem:
+1. Check whether other websites are accessible.
+2. Restart the network connection.
+3. Verify whether the problem occurs only on one device.
+4. Report persistent DNS or internal website problems to the Network Team.

@@ -1,0 +1,30 @@
+SOFTWARE TROUBLESHOOTING GUIDE
+
+Application not opening:
+1. Restart the application.
+2. Restart the computer.
+3. Check whether the application has a pending update.
+4. Check whether other users experience the same problem.
+5. Reinstall the application only when approved by IT.
+6. Escalate persistent problems to the Software Team.
+
+Application crashing:
+1. Restart the application.
+2. Restart the computer.
+3. Check available system resources.
+4. Update the application if an approved update is available.
+5. Record the error message before escalation.
+6. Escalate repeated crashes to the Software Team.
+
+Software installation request:
+1. Confirm that the software is required for the user's work.
+2. Check whether the software is approved by the organization.
+3. Submit the installation request through the helpdesk.
+4. The Software Team should handle approved installations.
+
+Browser problems:
+1. Restart the browser.
+2. Clear browser cache when appropriate.
+3. Disable unnecessary browser extensions.
+4. Test the website in another supported browser.
+5. Escalate persistent problems to the Software Team.
